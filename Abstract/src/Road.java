@@ -42,7 +42,7 @@ public class Road {
         car.stop("stopped");
         bike.start("bike");
         bike.stop("stopped");
-        truck.start("truck");
+        truck.start("tractor");
         truck.stop("stopped");
     }
 }
